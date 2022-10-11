@@ -621,11 +621,6 @@ video {
   margin-right: 0.25rem;
 }
 
-.-mx-4 {
-  margin-left: -1rem;
-  margin-right: -1rem;
-}
-
 .-mx-2 {
   margin-left: -0.5rem;
   margin-right: -0.5rem;
@@ -642,14 +637,6 @@ video {
 
 .mt-6 {
   margin-top: 1.5rem;
-}
-
-.mt-12 {
-  margin-top: 3rem;
-}
-
-.mt-4 {
-  margin-top: 1rem;
 }
 
 .block {
@@ -804,10 +791,6 @@ video {
   fill: #1f2937;
 }
 
-.fill-gray-600 {
-  fill: #4b5563;
-}
-
 .fill-current {
   fill: currentColor;
 }
@@ -838,11 +821,6 @@ video {
 .px-8 {
   padding-left: 2rem;
   padding-right: 2rem;
-}
-
-.px-4 {
-  padding-left: 1rem;
-  padding-right: 1rem;
 }
 
 .text-center {
@@ -1096,10 +1074,6 @@ video {
 
   .sm\:justify-center {
     justify-content: center;
-  }
-
-  .sm\:justify-between {
-    justify-content: space-between;
   }
 
   .sm\:space-y-0 > :not([hidden]) ~ :not([hidden]) {
